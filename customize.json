@@ -1,9 +1,9 @@
 {
   "greeting": "你好",
-  "name": "臭美琼",
-  "greetingText": "我是你亲爱的姐姐 丑猪btw!",
-  "wishText": "又老了一岁，和我一起养老吧。;)",
-  "imagePath": "img/lydia2.png",
+  "name": "妹妹",
+  "greetingText": "我是好嗨哟 嘻嘻 你可以叫我好哥btw!",
+  "wishText": "自我介绍 我是99年的、喜欢考研，喜欢考证，最喜欢对象的职业是老师。;)",
+  "imagePath": "img/sister.jpg",
   "text1": "今天是你的生日!!! :D",
   "textInChatBox": "祝你生日快乐，愿这完全属于你的一天带给你快乐，愿未来的日子锦上添花! blah...",
   "sendButtonLabel": "发送",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "因",
   "bigTextPart2": "此",
-  "wishHeading": "生日快乐，永远爱你! 愿你年年有今日，岁岁有今朝",
+  "wishHeading": "生日快乐! 愿你年年有今日，岁岁有今朝",
   "outroText": "这样的祝福你爱了吗？",
   "replayText": "爱了的话就再来一遍吧",
   "outroSmiley": ":)"
