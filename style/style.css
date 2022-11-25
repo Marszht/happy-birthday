@@ -231,6 +231,9 @@ body {
   z-index: 3;
   cursor: pointer;
 }
+.audio_tag {
+  visibility: hidden;
+}
 
 /* Media Queries */
 @media screen and (max-height: 1000px) {
